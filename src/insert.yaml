@@ -1,0 +1,6 @@
+---
+-
+  file: /com/Foo.cs
+  pattern:
+    - void Start()
+    - private void init()
